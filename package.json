@@ -1,0 +1,19 @@
+{
+  "name": "simplemod",
+  "version": "0.0.1",
+  "description": "A simple discord mod bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azukiov/SimpleBot.git"
+  },
+  "author": "https://github.com/Azukiov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Azukiov/SimpleBot/issues"
+  },
+  "homepage": "https://github.com/Azukiov/SimpleBot#readme"
+}
